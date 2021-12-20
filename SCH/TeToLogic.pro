@@ -1,4 +1,4 @@
-update=sab 4 dic 2021, 17:30:38
+update=lun 20 dic 2021, 11:23:35
 version=1
 last_client=eeschema
 [general]
@@ -33,8 +33,8 @@ LibDir=
 [eeschema/libraries]
 [schematic_editor]
 version=1
-PageLayoutDescrFile=
-PlotDirectoryName=../DOC/REV2/
+PageLayoutDescrFile=/home/stefano/Desktop/IEEE/TetoLogic/v0/TeToLogic/Cartigli.kicad_wks
+PlotDirectoryName=../DOC/REV3/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=

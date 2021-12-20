@@ -1,2 +1,5 @@
 *-bak
-
+*-swp
+__pycache__
+venv
+.idea

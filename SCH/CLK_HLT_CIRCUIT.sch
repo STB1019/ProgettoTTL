@@ -3,8 +3,8 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 4 11
-Title "REGISTER_FILE"
+Sheet 4 13
+Title "Clock Management"
 Date "2021-11-18"
 Rev "1"
 Comp "IEEE Student Branch 1019"

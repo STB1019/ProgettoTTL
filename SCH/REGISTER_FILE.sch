@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
-Sheet 5 11
+Sheet 5 13
 Title "REGISTER_FILE"
 Date "2021-11-19"
 Rev "1"
@@ -1030,30 +1030,6 @@ Wire Bus Line
 	1150 4950 1050 4950
 Wire Bus Line
 	1150 2450 1050 2450
-Wire Bus Line
-	2950 7500 2950 8850
-Wire Bus Line
-	6700 7400 6700 9750
-Wire Bus Line
-	3100 1100 3100 4800
-Wire Bus Line
-	1150 7650 1150 8050
-Wire Bus Line
-	3100 4800 3100 8850
-Wire Bus Line
-	1150 4950 1150 5350
-Wire Bus Line
-	1150 2450 1150 2800
-Wire Bus Line
-	2850 2250 2850 3350
-Wire Bus Line
-	2850 4800 2850 5900
-Wire Bus Line
-	2850 7500 2850 8600
-Wire Bus Line
-	2950 1100 2950 7500
-Wire Bus Line
-	3250 2250 3250 8850
 Text HLabel 1050 2450 0    50   Input ~ 0
 IN_SEL[2..0]
 Text HLabel 1050 3100 0    50   Input ~ 0
@@ -1084,4 +1060,28 @@ Text Label 1250 7950 0    50   ~ 0
 B_SEL1
 Text Label 1250 8050 0    50   ~ 0
 B_SEL2
+Wire Bus Line
+	2950 7500 2950 8850
+Wire Bus Line
+	6700 7400 6700 9750
+Wire Bus Line
+	3100 1100 3100 4800
+Wire Bus Line
+	1150 7650 1150 8050
+Wire Bus Line
+	3100 4800 3100 8850
+Wire Bus Line
+	1150 4950 1150 5350
+Wire Bus Line
+	1150 2450 1150 2800
+Wire Bus Line
+	2850 2250 2850 3350
+Wire Bus Line
+	2850 4800 2850 5900
+Wire Bus Line
+	2850 7500 2850 8600
+Wire Bus Line
+	2950 1100 2950 7500
+Wire Bus Line
+	3250 2250 3250 8850
 $EndSCHEMATC

@@ -3,8 +3,8 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 11
-Title "REGISTER_FILE"
+Sheet 3 13
+Title "Clock Generator"
 Date "2021-11-10"
 Rev "2"
 Comp "IEEE Student Branch 1019"

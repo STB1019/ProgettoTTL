@@ -3,8 +3,8 @@ EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 1 11
-Title "REGISTER_FILE"
+Sheet 1 13
+Title ""
 Date "2021-11-10"
 Rev ""
 Comp "IEEE Student Branch 1019"
@@ -53,4 +53,12 @@ Text Notes 1100 4500 0    59   ~ 0
 2
 Text Notes 1750 4500 0    59   ~ 0
 29/11
+Text Notes 2700 4700 0    59   ~ 0
+Alu e interconnessione con i registri. Logo nel cartiglio e fix minori
+Wire Notes Line
+	1000 4550 15900 4550
+Text Notes 1100 4700 0    59   ~ 0
+3
+Text Notes 1750 4700 0    59   ~ 0
+15/12
 $EndSCHEMATC
